@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Buat issue di wincare3-work
+    url: https://github.com/Husada-Utama-Hospital/wincare3-work/issues/new/choose
+    about: Semua issue WinCare3 ada di wincare3-work. Repository ini hanya untuk kode dan pull request.
